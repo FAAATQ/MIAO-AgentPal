@@ -30,7 +30,7 @@ MIAO - AgentPal reads agent state locally. It has no cloud service of its own an
 
 ## Current limitations
 
-- The Marketplace listing is currently a pre-release; some integrations may miss states depending on the agent version.
+- This is an early public release; some integrations may miss states depending on the agent version.
 - SessionEnd is not connected yet.
 - Built-in connectors and built-in avatars only.
 
@@ -68,7 +68,7 @@ MIAO - AgentPal 在本机读取 Agent 状态，没有自己的云端服务，也
 
 ### 当前限制
 
-- 插件市场当前为 pre-release；部分来源的状态覆盖可能因 Agent 版本不同而有差异。
+- 当前为早期公开版本；部分来源的状态覆盖可能因 Agent 版本不同而有差异。
 - SessionEnd 尚未接入。
 - 仅提供内置连接器和内置形象。
 
